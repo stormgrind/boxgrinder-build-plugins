@@ -4,4 +4,5 @@ Manifest
 Rakefile
 lib/boxgrinder-build-s3-delivery-plugin.rb
 lib/boxgrinder-build-s3-delivery-plugin/s3-plugin.rb
+lib/boxgrinder-build-s3-delivery-plugin/src/cert-ec2.pem
 spec/s3-plugin-spec.rb
